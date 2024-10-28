@@ -1,4 +1,4 @@
-package Oct.ex_10102024;
+package Oct.ex_10102024_constants_Literals;
 
 public class Lab030 {
     int i_age; // INSATNCE VARIABLE
